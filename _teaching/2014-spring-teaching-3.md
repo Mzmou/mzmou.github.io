@@ -1,16 +1,17 @@
 ---
-title: "Teaching Assistant – Theory of Formal Language and Automata"
+title: "Teaching Assistant – Introduction to Computer Systems and Programming"
 collection: teaching
 type: "Teaching Assistantship"
-permalink: /teaching/2024-fall-theory-automata
-venue: "School of Computer Engineering"
-date: 2024-09-01
-location: "Sharif University of Technology, Tehran, Iran"
+permalink: /teaching/2023-fall-intro-systems
+venue: "School of Electrical and Computer Engineering"
+date: 2023-09-01
+location: "University of Tehran, Tehran, Iran"
 ---
 
-During **Fall 2024 and Spring 2025**, I worked as a **Teaching Assistant** for the *Theory of Formal Language and Automata* course taught by [**Dr. M. Dolati**](https://sharif.edu/~mdolati/).  
+In **Fall 2023**, I worked as a **Teaching Assistant** for *Introduction to Computer Systems and Programming*, taught by [**Dr. M. Hashemi**](https://profile.ut.ac.ir/~rhashemi) and [**Dr. M. Moradi**](https://ece.ut.ac.ir/~moradih).  
 
-Key contributions:  
-- Assisted in creating practice problems and exam questions focused on **deterministic and non-deterministic finite automata (DFA/NFA)**.  
-- Supported students through grading and clarifying conceptual difficulties.  
-- Helped foster a rigorous learning environment in a foundational theoretical course.  
+Responsibilities included:  
+- Assisting students with their **first exposure to programming** in C and C++.  
+- Helping grade assignments and projects.  
+- Answering student questions and clarifying fundamental programming concepts.  
+- Providing extra support to help students transition into computer engineering coursework.  
