@@ -1,16 +1,16 @@
 ---
-title: "Teaching Assistant – Theory of Formal Language and Automata"
+title: "Teaching Assistant – Artificial Intelligence Workshop"
 collection: teaching
-type: "Teaching Assistantship"
-permalink: /teaching/2024-fall-theory-automata
-venue: "School of Computer Engineering"
-date: 2024-09-01
-location: "Sharif University of Technology, Tehran, Iran"
+type: "Teaching assistantship"
+permalink: /teaching/2024-summer-ai
+venue: "University of Tehran – ACM Chapter"
+date: 2024-07-15
+location: "Tehran, Iran"
 ---
 
-During **Fall 2024 and Spring 2025**, I worked as a **Teaching Assistant** for the *Theory of Formal Language and Automata* course taught by [**Dr. M. Dolati**](https://sharif.edu/~mdolati/).  
+I assisted in running the **Artificial Intelligence Summer course** organized by the [**University of Tehran ACM Chapter**](https://ut-acm.ir/) in **Summer 2024**.  
 
-Key contributions:  
-- Assisted in creating practice problems and exam questions focused on **deterministic and non-deterministic finite automata (DFA/NFA)**.  
-- Supported students through grading and clarifying conceptual difficulties.  
-- Helped foster a rigorous learning environment in a foundational theoretical course.  
+My role included:  
+- Supporting instructors in teaching core AI concepts such as **search algorithms**, **knowledge representation**, and **machine learning basics**.  
+- Helping participants debug code and implement algorithms during hands-on sessions.  
+- Encouraging collaboration and mentoring participants throughout the workshop.  
