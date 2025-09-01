@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant – Theory of Formal Language and Automata"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistantship"
+permalink: /teaching/2024-fall-theory-automata
+venue: "School of Computer Engineering"
+date: 2024-09-01
+location: "Sharif University of Technology, Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During **Fall 2024 and Spring 2025**, I worked as a **Teaching Assistant** for the *Theory of Formal Language and Automata* course taught by [**Dr. M. Dolati**](https://sharif.edu/~mdolati/).  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Key contributions:  
+- Assisted in creating practice problems and exam questions focused on **deterministic and non-deterministic finite automata (DFA/NFA)**.  
+- Supported students through grading and clarifying conceptual difficulties.  
+- Helped foster a rigorous learning environment in a foundational theoretical course.  
