@@ -8,7 +8,7 @@ date: 2024-09-01
 location: "University of Tehran, Tehran, Iran"
 ---
 
-I served as a **Teaching Assistant** for the *Formal Language and Automata Theory* course during **Fall 2024, Spring 2025, and Fall 2026** under the supervision of [**Dr. H. Hojjat**](https://scholar.google.com/citations?user=hkfVNCMAAAAJ&hl=en).  
+I served as a **Teaching Assistant** for the *Formal Language and Automata Theory* course during **Fall 2024, Spring 2025, and Fall 2026** under the supervision of [**Dr. H. Hojjat**](https://scholar.google.com/citations?user=hkfVNCMAAAAJ&hl=en) and Eng. Mousavi.  
 
 My responsibilities included:  
 - Designing exam and homework questions on advanced topics such as **PDA (Pushdown Automata)**, **CFG (Context-Free Grammar)**, **CFL and DCFL**, **reduction**, **decidability**, and **recognizability**.  
