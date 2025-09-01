@@ -278,6 +278,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  - scope:
+      path: ""
+      type: transcript
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true    
   # _talks
   - scope:
       path: ""
